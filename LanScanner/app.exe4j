@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="8.0" transformSequenceNumber="3">
+  <directoryPresets config="C:/Users/Debanjan/Documents/NetBeansProjects/LanScanner/dist" />
+  <application name="Application" distributionSourceDir="C:/Users/Debanjan/Documents/NetBeansProjects/LanScanner" />
+  <executable name="LanScanner" wrapperType="embed" executableMode="gui" />
+  <java mainClass="lanscanner.Home" minVersion="1.8.0">
+    <classPath>
+      <archive location="C:/Users/Debanjan/Documents/NetBeansProjects/LanScanner/dist/LanScanner.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
